@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
         ArrayList<Terrain> TerData = new ArrayList<>() ;
 
 
-        etudlog.add(new etudiants("Messaoudi" , "achraf" , "WA297911" , "INE2" , "AMOA" , "0614582811" , "achmess@gmail.com" , "azer12"));
-        etudlog.add(new etudiants("agnaou" , "mohamed" , "BA114455" , "INE2" , "AMOA" , "0611447788" , "agnaou@gmail.com", "azer12"));
+        etudlog.add(new etudiants("Bouhlal" , "Mahdi" , "WA297911" , "INE2" , "ASEDS" , "0614582811" , "Mahdi@gmail.com" , "azer12"));
+        etudlog.add(new etudiants("Hammoud" , "Abdellah" , "BA114455" , "INE2" , "ASEDS" , "0611447788" , "Hammoud@gmail.com", "azer12"));
         etudlog.add(new etudiants("omari" , "jamal" , "A1122554" , "INE2" , "AMOA" , "0655887744" , "omari@gmail.com", "azer12"));
         etudlog.add(new etudiants("siffar" , "soufiane" , "Z1144552" , "INE2" , "AMOA" , "0788441122" , "siffar@gmail.com", "azer12"));
 
